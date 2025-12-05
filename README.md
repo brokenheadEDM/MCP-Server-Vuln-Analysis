@@ -65,7 +65,7 @@ Team | 황덕연 | [@D30kY](https://github.com/D30kY)
 
 Team | 최원우 | [@CHOE](https://github.com/choewonwoo1817)
 
-Team | 문범수 | [@Liv01a](https://github.com/Liv01a)
+Team | 문범수 | [@L1v0z](https://github.com/L1v0z)
 
 Team | 이창민 | [@ChangminLee](https://github.com/brokenheadEDM)
 
